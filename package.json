@@ -1,0 +1,22 @@
+{
+  "name": "debugging-event-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevebrownlee/dreams-come-true.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevebrownlee/dreams-come-true/issues"
+  },
+  "homepage": "https://github.com/stevebrownlee/dreams-come-true#readme",
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}

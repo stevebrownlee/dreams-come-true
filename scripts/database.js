@@ -69,7 +69,7 @@ const database = {
         id: 4,
         name: "Karine McKennan",
         celebrityId: 6,
-        wissh: "Drive a race car"
+        wish: "Drive a race car"
     }, {
         id: 5,
         name: "Cissy Weavers",
